@@ -12,14 +12,14 @@ body{
 .image{
     height: 757px;
     background-repeat: no-repeat;
-    background-image: url("bubbleb.png") ;
+    background-image: url("images/bubbleb.png") ;
     
 }
 .imagetwo{
     background-position: top right;
     height: 757px;
     background-repeat: no-repeat;
-    background-image: url("bubblea.png") ;
+    background-image: url("images/bubblea.png") ;
 }
 header ul{
     display: flex;
@@ -98,7 +98,7 @@ header li{
     height: 500px;
     background-position: right;
     background-repeat: no-repeat;
-    background-image: url("man.png") ;
+    background-image: url("images/man.png") ;
 }
 .partone{
     padding: 100px 200px;
@@ -193,7 +193,7 @@ header li{
 .cardpic{
     width: 238px;
     height: 300px;
-    background-image: url("women.png") ;
+    background-image: url("images/women.png") ;
 }
 .cardinside{
     height: 300px;
